@@ -1,0 +1,8 @@
+{
+  "name": "chm-cbd.net-inbound-emails",
+  "description": "chm-cbd.net inbound emails handler with AWS lambda",
+  "dependencies": {
+    "aws-lambda-ses-forwarder": "^4.2.0"
+  },
+  "engine": "node >= 6.0"
+}

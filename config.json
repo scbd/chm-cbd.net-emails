@@ -1,0 +1,11 @@
+{
+  "fromEmail": "no-reply@chm-cbd.net",
+  "subjectPrefix": "",
+  "emailBucket": "scbd-ses-inbound",
+  "emailKeyPrefix": "chm-cbd.net/",
+  "forwardMapping": {
+    "support@chm-cbd.net": [
+      "alexandre.rafalovitch@cbd.int"
+    ]
+  }
+}
