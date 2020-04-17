@@ -4,8 +4,10 @@
   "emailBucket": "scbd-ses-inbound",
   "emailKeyPrefix": "chm-cbd.net/",
   "forwardMapping": {
-    "support@chm-cbd.net": [
-      "alexandre.rafalovitch@cbd.int"
-    ]
+    "support@chm-cbd.net":             [ "alexandre.rafalovitch@cbd.int" ],
+    "bioland-contributor@chm-cbd.net": [ "alexandre.rafalovitch@cbd.int" ],
+    "bioland-cm@chm-cbd.net":          [ "alexandre.rafalovitch@cbd.int" ],
+    "bioland-sm@chm-cbd.net":          [ "alexandre.rafalovitch@cbd.int" ],
+    "country-cm@chm-cbd.net":          [ "alexandre.rafalovitch@cbd.int" ]
   }
 }
